@@ -424,8 +424,8 @@ def area_list(request):
         return {
             "areaList": {
                 "place": {
-                    "segment": "WiiLink",
-                    "list": {"areaPlace": {"areaName": "WiiLink", "areaCode": 2}},
+                    "segment": "Saudi Arabia",
+                    "list": {"areaPlace": {"areaName": "Saudi Arabia", "areaCode": 2}},
                 },
             },
             "areaCount": 1,
@@ -447,15 +447,15 @@ def area_list(request):
             "areaList": {
                 "place": {
                     "container0": "aaaa",
-                    "segment": "WiiLink",
+                    "segment": "Saudi Arabia",
                     "list": {
                         "areaPlace": {
-                            "areaName": "Reunion Tower",
+                            "areaName": "Saudi Arabia",
                             "areaCode": zip_code,
                             "isNextArea": 0,
                             "display": 1,
                             "kanji1": "300",
-                            "kanji2": "Reunion Tower",
+                            "kanji2": "Saudi Arabia",
                             "kanji3": "two",
                             "kanji4": "three",
                         }
